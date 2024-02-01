@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\bin\Debug\net8.0\Handson1_Birds.exe
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\bin\Debug\net8.0\Handson1_Birds.deps.json
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\bin\Debug\net8.0\Handson1_Birds.runtimeconfig.json
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\bin\Debug\net8.0\Handson1_Birds.dll
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\bin\Debug\net8.0\Handson1_Birds.pdb
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\obj\Debug\net8.0\Handson1_Birds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\obj\Debug\net8.0\Handson1_Birds.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\obj\Debug\net8.0\Handson1_Birds.AssemblyInfo.cs
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\obj\Debug\net8.0\Handson1_Birds.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\obj\Debug\net8.0\Handson1_Birds.dll
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\obj\Debug\net8.0\refint\Handson1_Birds.dll
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\obj\Debug\net8.0\Handson1_Birds.pdb
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\obj\Debug\net8.0\Handson1_Birds.genruntimeconfig.cache
+C:\Projects\C# Projects\Handson1_Birds\Handson1_Birds\obj\Debug\net8.0\ref\Handson1_Birds.dll
